@@ -1,4 +1,6 @@
 #!/bin/sh
+# See the "COPYING" file distributed along with this script for the MIT/X
+# Consortium License.
 
 echo "Enter a filename containing hex data or raw hex data to send it to the projector."
 ( while true; do
